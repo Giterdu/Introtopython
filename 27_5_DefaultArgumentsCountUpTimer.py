@@ -19,3 +19,11 @@ def count(end, start = 0,): #make sure all default arguments are placed after no
 
 count(5)
 #count(30, 20) #can still adjust both arguments if necessary
+
+#def countdown(start, end):
+    #for x in reversed(range(start - 1, end)):
+        #print(x)
+        #time.sleep(1)
+    #print("BOOM!")
+
+#countdown(2,11)
